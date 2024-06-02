@@ -59,7 +59,7 @@ const Hero = () => {
 
 
           <p className="text-center text-cyan-500 md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Subhadip, a Fullstack Developer. I love crafting beautiful and functional web applications that bring value to users.
+            Hi, I &apos; Subhadip, a Fullstack Developer. I love crafting beautiful and functional web applications that bring value to users.
           </p>
 
           <a href="#about">
